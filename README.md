@@ -20,15 +20,15 @@ I've already set up the project and its markup for you. Follow these simple step
 
 3. List the files to familiarize yourself with the project structure:
 
-```bash
-ls -la
-```
+   ```bash
+   ls -la
+   ```
 
-4.  Navigate to the specific project you want to explore, for instance:
+4. Navigate to the specific project you want to explore, for instance:
 
-```bash
-cd 001-width-height-uis
-```
+   ```bash
+   cd 001-width-height-uis
+   ```
 
 5. Install project dependencies:
 
@@ -46,8 +46,8 @@ cd 001-width-height-uis
 
 Start the development server by running the following command:
 
-```bash
-npm run dev
-```
+    ```bash
+    npm run dev
+    ```
 
 Grab your coffee, tea, or favorite beverage and start writing some Tailwind classes! Happy coding!
